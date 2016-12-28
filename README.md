@@ -11,7 +11,7 @@ The code consist of one that gathers data from sensor and switches On or OFF the
 - Power Source
 
 The circuit design as given below:
-[IMAGE]
+![Screenshot](screenshot.png)
 
 **Pre-reqs :**
 - Rasbian is preloaded and working
