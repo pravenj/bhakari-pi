@@ -10,8 +10,7 @@ The code consist of one that gathers data from sensor and switches On or OFF the
 - Relay switch (optional)
 - Power Source
 
-The circuit design adn youtube video of the experiment as given below:
-![Screenshot](screenshot.png)
+The circuit design and youtube video of the experiment as given below:
 [![Circuit design](screenshot.png)](https://youtu.be/dFsxJ2ige1g)
 
 **Pre-reqs :**
